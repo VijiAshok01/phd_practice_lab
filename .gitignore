@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+.venv311
+env/
+venv/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Data files
+*.csv
+*.xlsx
+
+# Python virtual environment
+*.egg-info/
+
+# Logs
+*.log
+
+# Ignore notebook output
+*.nbconvert.ipynb
+*pip_install.ipynb
+
+# Ignore test and coverage files
+htmlcov/
+.coverage
+.tox/
+
+# Ignore pip wheel files
+*.whl
+
+dist/
+build/
+
+# Ignore temporary files
+*.tmp
+*.temp
+~$*
